@@ -16,8 +16,7 @@
   - [Listar Posts](#listar-posts)
   - [Criar Comentário](#criar-comentário)
   - [Listar Comentários por Post](#listar-comentários-por-post)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Pré-requisitos
 
@@ -159,20 +158,4 @@ http://localhost:3000/api/posts/3/comments
 ```
 Substitua `3` pelo ID do post cujos comentários deseja listar.
 
-## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-1. Fork este repositório.
-2. Crie um branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`).
-4. Push para o branch (`git push origin feature/nova-feature`).
-5. Crie um novo Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Divirta-se explorando e melhorando este projeto! 🚀😊
